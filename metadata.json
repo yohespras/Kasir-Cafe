@@ -1,0 +1,6 @@
+{
+  "name": "Kopi Senja - Web Cafe & Kasir POS",
+  "description": "Sistem manajemen kafe dan kasir POS modern lengkap dengan pesanan meja, kitchen display, manajemen stok menu, struk transaksi, serta integrasi Google Drive & Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
